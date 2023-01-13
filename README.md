@@ -1,4 +1,6 @@
-<h3 align="center">Aspiring Web Developer || Mu- 📫 Feel free to contact me at **bowiewong12@gmail.com**
+<h3 align="center">Aspiring Web Developer with a passion for Music, Audio and Healthcare</h3>  
+  
+📫 Feel free to contact me at **bowiewong12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
