@@ -41,4 +41,20 @@
 <p> • KnexJS</p>
 <p> • Node.js<p>
   
-  <div {border-bottom-style></div>
+<h1></h1>
+
+<h1>Bench Accounting (Hack-a-thon Winning Team)</h1>
+
+  <p>A redesign of the website-flow for Bench Accounting's sign-up process <br><br>
+  Worked with a group of UX design students, Data science students and fellow webdevelop students <br>
+  to create a better user experience and increase rate of completed sign-ups<p>
+
+<img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1675812371/Recording_2023-02-07_at_15.25.11_1_ciwwtg.gif" alt="Bench-Account"/>
+  
+<h2>Tech Used</h2>
+<p> • ReactJS</p>
+<p> • Sass</p>
+<p> • React-Calender</p>
+<p> • Reac-Router</p>
+<p> • Figma (for mock-ups)</p>
+ 
