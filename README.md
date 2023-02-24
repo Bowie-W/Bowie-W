@@ -1,4 +1,6 @@
-<h3 align="center">Aspiring Web Developer with a passion for Music, Audio and Healthcare</h3>  
+<h1 align="center"> Bowie Wong <h1>
+
+<h3 align="center">Full-Stack Web Developer with a passion for Music, Audio and Healthcare</h3>  
   
 📫 Feel free to contact me at **bowiewong12@gmail.com**
 
