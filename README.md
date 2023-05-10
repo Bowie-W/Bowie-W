@@ -16,9 +16,8 @@
 <h1 align='center'>Projects</h1>
   
 <h1>Madelusiv (Artist Showcase)</h1>
+  <img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1683754641/Recording_2023-05-10_at_14.36.40_weu3f3.gif" alt="Madelusiv-Demo"/>
 
-  <img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1673649082/Recording_2023-01-13_at_14.31.00_dyyguh.gif" alt="Bandwagon-Demo"/>
-<img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1683754641/Recording_2023-05-10_at_14.36.40_weu3f3.gif" alt="Madelusiv"/>
 
 <h1>Bandwagon</h1>
 
