@@ -14,8 +14,11 @@
 
 
 <h1 align='center'>Projects</h1>
+  
+ <h1>Madelusiv (Artist Showcase)</h1>
+<img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1683754641/Recording_2023-05-10_at_14.36.40_weu3f3.gif" alt="Madelusiv"/>
 
-<h1>Bandwagon<h1>
+<h1>Bandwagon</h1>
 
 <h4>A social networking platform that connects musicians with each other to find people to play with! </h4>
 
