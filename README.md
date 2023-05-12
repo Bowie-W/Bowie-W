@@ -17,9 +17,18 @@
   
 <h1>Madelusiv (Artist Showcase)</h1>
   <img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1683922519/ezgif-1-ebfc10fc2e_q7jran.gif" alt="Madelusiv-Demo"/>
-
-
-<h1>Bandwagon</h1>
+  <h4> A dynamic artist showcasing platform with custom audio player and parallax design.</h4>
+  <p> Worked closely with artists to bring their artist vision to life in all aspects including logo design, UX/UI design and more </p>
+  
+  <h2> Tech Used </h2>
+  <p> • MERN stack </p>
+  <p> • Typescript </p>
+  <p> • Slick-carousel </p>
+  <p> • React Spring <p>
+  <p> • Sass </p>
+  <p> • Cloudinary </p>
+  
+<h1>Bandwagon (Social Networking Site)</h1>
 
 <h4>A social networking platform that connects musicians with each other to find people to play with! </h4>
 
@@ -31,7 +40,7 @@
 
 <img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1673649082/Recording_2023-01-13_at_14.31.00_dyyguh.gif" alt="Bandwagon-Demo"/>
 
-<h2>Front-End Stack</h2>
+<h2>Front-End Tech</h2>
 <p> • ReactJS</p>
 <p> • Cloudinary</p>
 <p> • Tailwindcss</p>
@@ -39,7 +48,7 @@
 <p> • SlickJS</p>
 
 
-<h2>Back-End Stack</h2>
+<h2>Back-End Tech</h2>
 <p> • Cloudinary</p>
 <p> • MySQL</p>
 <p> • Socket.io</p>
@@ -49,9 +58,9 @@
   
 <h1></h1>
 
-<h1>Bench Accounting (Hack-a-thon Winning Team)</h1>
+<h1>Bench Accounting (Site-Redesign)</h1>
 
-  <p>A redesign of the website-flow for Bench Accounting's sign-up process <br><br>
+  <p>A hack-a-thon redesign of the website-flow for Bench Accounting's sign-up process <br><br>
   Worked with a group of UX design students, Data science students and fellow webdevelop students <br>
   to create a better user experience and increase rate of completed sign-ups<p>
 
