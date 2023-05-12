@@ -16,7 +16,7 @@
 <h1 align='center'>Projects</h1>
   
 <h1>Madelusiv (Artist Showcase)</h1>
-  <img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1683750767/wlkiwllijc9zeyb84v9t.svg" alt="Madelusiv-Demo"/>
+  <img src="https://res.cloudinary.com/dl2liojkl/image/upload/v1683922519/ezgif-1-ebfc10fc2e_q7jran.gif" alt="Madelusiv-Demo"/>
 
 
 <h1>Bandwagon</h1>
